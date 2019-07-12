@@ -7,3 +7,4 @@ It also reinstated the core value of being an empathetic listener.
 You can access it via Tableau public: 
 https://public.tableau.com/profile/monica6775#!/vizhome/Mental_Health_Dash_15629063417140/Dashboard1?publish=yes
 
+![Mental_Health](https://github.com/Monica-Kulkarni/Mental-Health/blob/master/Mental_Health.jpg)
